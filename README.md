@@ -39,11 +39,6 @@ You can watch the screen recording of the completed task here:
 
 ➡️ [Watch Screen Recording](https://your-link-to-video.com)
 
-<!-- If hosted on YouTube, you can embed it like this: -->
-<!--
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
--->
-
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -66,4 +61,4 @@ Gained foundational knowledge of Android development, hands-on experience with A
 
 ---
 
-> *Internship successfully completed: [Your Name], [Date]*
+> *Internship successfully completed: Nama Shrihithaah*
